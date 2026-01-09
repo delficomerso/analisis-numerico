@@ -1,6 +1,7 @@
 # Análisis Numérico
 
-Repositorio correspondiente a la materia **Análisis Numérico**.
+Repositorio correspondiente a la materia **Análisis Numérico**, cursada durante el segundo Cuatrimestre de 2025.
+
 
 El repositorio contiene tres entregas desarrolladas durante el cursado,
 incluyendo informese e implementaciones en código.
