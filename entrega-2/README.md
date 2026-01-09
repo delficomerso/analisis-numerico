@@ -26,10 +26,11 @@ Los objetivos principales son:
 
 ## Contenido
 
-- `DiferenciasFinitas.jl/`: librería propia con la implementación de los métodos.
-- `scripts/`: scripts para ejecutar los experimentos pedidos.
-- `figures/`: gráficos de la solución numérica y comparaciones.
-- `Entrega2.pdf`: consigna original de la entrega.
+- `Entrega 2.pdf`: consigna original de la entrega.
+- `DiferenciasFinitas/`: librería propia en Julia.
+  - `src/DiferenciasFinitas.jl`: implementación principal.
+  - `Project.toml`, `Manifest.toml`: entorno del proyecto.
+  - `entrega2.jl`: script de ejecución y pruebas.
 
 ## Lenguaje
 
