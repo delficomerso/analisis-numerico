@@ -1,6 +1,6 @@
 # Entrega 2 — Guía 2 (Ejercicios 6 y 7)
 
-Esta entrega corresponde a los **Ejercicios 6 y 7 de la Guía de Laboratorio 2** de la materia **Análisis Numérico**.
+Esta entrega corresponde a los **Ejercicios 6 y 7 de la Guía de Laboratorio 2**.
 
 ## Descripción del problema
 
