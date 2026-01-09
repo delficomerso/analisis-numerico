@@ -24,9 +24,7 @@ Los objetivos principales son:
 
 ## Contenido
 
-- `fem_2d.jl`: implementación del método de elementos finitos.
-- `scripts/`: scripts para generación de mallas, resolución y cálculo de errores.
-- `figures/`: gráficos de la solución numérica y estudios de convergencia.
+- `EntregaFinal_Comerso.jl`: implementación en Julia del método de elementos finitos.
 - `entrega_final.pdf`: consigna original del trabajo final.
 
 ## Lenguaje
