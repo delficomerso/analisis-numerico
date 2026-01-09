@@ -1,6 +1,6 @@
 # Entrega 1 — Ejercicio 8 (Guía 1)
 
-Esta entrega corresponde al **Ejercicio 8 de la Guía 1** de la materia Análisis Numérico.
+Esta entrega corresponde al **Ejercicio 8 de la Guía 1**.
 
 ## Descripción del problema
 
