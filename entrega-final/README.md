@@ -1,6 +1,6 @@
 # Entrega Final — FEM 2D
 
-Esta entrega corresponde al **Trabajo Final** de la materia **Análisis Numérico**.
+Esta entrega corresponde al **Trabajo Final**.
 
 ## Descripción del problema
 
