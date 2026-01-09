@@ -1,2 +1,18 @@
-# analisis-numerico
-Trabajos prácticos de la materia Análisis Numérico, incluyendo tres entregas con informes y código.
+# Análisis Numérico
+
+Repositorio correspondiente a la materia Análisis Numérico.
+
+El repositorio contiene tres entregas desarrolladas durante el cursado,
+incluyendo informes y, cuando corresponde, implementaciones en código.
+
+## Contenido
+
+- **Entrega 1**: 
+- **Entrega 2**: 
+- **Entrega 3**: 
+
+Cada carpeta incluye el informe correspondiente y el código utilizado.
+
+## Autora
+- Delfina Belén Comerso Salzer
+
